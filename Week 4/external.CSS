@@ -1,0 +1,20 @@
+
+
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+</style>
+
+h1{
+    background-color: brown;
+    font-size: 40px;
+    color:black;
+ }
+
+ p{
+    background-color: rgb(10, 9, 9);
+    font-size: 40px;
+    color:rgb(255, 247, 247);
+ }
